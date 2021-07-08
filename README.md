@@ -1,4 +1,4 @@
-# crc-32 hash collider
+# CRC-32 hash collider
 
 CRC-32 collision finder
 
