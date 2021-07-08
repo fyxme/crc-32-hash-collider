@@ -18,7 +18,8 @@ go run collide.go
 
 ## Example
 
-Looking to find a collision for CRC-32 value: -432570933 
+Looking to find a collision for CRC-32 value: -432570933
+
 _Note: old python versions generated signed integers and therefore allowed negative CRC-32 values_
 
 ```golang
