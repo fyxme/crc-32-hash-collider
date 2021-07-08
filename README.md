@@ -2,7 +2,7 @@
 
 CRC-32 collision finder
 
-[CRC-32 algorithm](https://en.wikipedia.org/wiki/Cyclic_redundancy_check#CRC-32_algorithm) outputs a 32-bit unsigned value and therefore can be easily bruteforce to find hash collisions.
+[CRC-32 algorithm](https://en.wikipedia.org/wiki/Cyclic_redundancy_check#CRC-32_algorithm) outputs a 32-bit unsigned value and therefore can be easily bruteforced to find hash collisions.
 
 This code uses the IEEE polynomial, however can be easily modified to other polynomials.
 
