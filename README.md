@@ -6,7 +6,9 @@ CRC-32 collision finder
 
 This code uses the IEEE polynomial, however can be easily modified to other polynomials.
 
-Written because I was looking for a tool to generate CRC-32 collisions during a CTF but couldn't find any on github.
+Written because I was looking for a tool to generate CRC-32 collisions during a CTF but couldn't find any at the time...
+
+*After learning more about CRC-32, I've come to realise that there are faster ways to find collisions and reverse the output value. Since CRC-32 is not a cryptographic hash function, there are mathematical ways to reverse the hash value to a valid input. For more information, see the following tool: [crc32](https://github.com/theonlypwner/crc32).*
 
 ## Usage
 
